@@ -56,3 +56,7 @@ from lendingclub2.account import InvestorAccount
 account = InvestorAccount()
 print(account.available_balance)
 ```
+
+## Documentation
+
+Latest `lendingclub2` API documentation can be found [here](https://lendingclub2.readthedocs.io/en/latest/)
